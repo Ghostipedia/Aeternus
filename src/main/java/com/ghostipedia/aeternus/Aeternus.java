@@ -1,5 +1,6 @@
 package com.ghostipedia.aeternus;
 
+import com.ghostipedia.aeternus.block.ModBlocks;
 import com.ghostipedia.aeternus.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraft.world.level.block.Block;
@@ -32,7 +33,7 @@ public class Aeternus {
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(eventBus);
-
+        ModBlocks.register(eventBus);
         eventBus.addListener(this::setup);
 
         // Register ourselves for server and other game events we are interested in

@@ -3,9 +3,33 @@
   "item.aeternus.wrought_casing": "Wrought Casing",
   "item.aeternus.brass_casing": "Brass Casing",
   "item.aeternus.regal_casing": "Regal Casing",
-  "item.aeternus.temporal_casing": "Temporally Stabilized Casing"
+  "item.aeternus.temporal_casing": "Temporally Stabilized Casing",
 
+  "item.aeternus.wooden_gears": "Wooden Gears",
+  "item.aeternus.wrought_gears": "Wrought Gears",
+  "item.aeternus.brass_gears": "Brass Gears",
+  "item.aeternus.regal_gears": "Regal Gears",
+  "item.aeternus.temporal_gears": "Temporally Stabilized Gears",
 
+  "item.aeternus.wooden_hands": "Wooden Hands",
+  "item.aeternus.wrought_hands": "Wrought Hands",
+  "item.aeternus.brass_hands": "Brass Hands",
+  "item.aeternus.regal_hands": "Regal Hands",
+  "item.aeternus.temporal_hands": "Temporally Stabilized Hands",
+
+  "item.aeternus.wooden_springs": "Wooden Springs",
+  "item.aeternus.wrought_springs": "Wrought Springs",
+  "item.aeternus.brass_springs": "Brass Springs",
+  "item.aeternus.regal_springs": "Regal Springs",
+  "item.aeternus.temporal_springs": "Temporally Stabilized Springs",
+
+  "item.aeternus.mundane_time_crystal": "Mundane Time Crystal",
+  "item.aeternus.weak_time_crystal": "Weak Time Crystal",
+  "item.aeternus.refined_time_crystal": "Refined Time Crystal",
+  "item.aeternus.elegant_time_crystal": "Elegant Time Crystal",
+  "item.aeternus.perfect_time_crystal": "Perfected Time Crystal",
+
+  "block.aeternus.strange_quartz_ore": "Strange Quartz Ore"
 
 
 
