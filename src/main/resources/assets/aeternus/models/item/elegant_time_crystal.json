@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "aeternus:item/temporal_hands"
+    "layer0": "aeternus:item/elegant_time_crystal"
 
 
   }

@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "aeternus:item/wrought_springs"
+    "layer0": "aeternus:item/weak_time_crystal"
 
 
   }

@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "aeternus:block/strange_quartz_ore",
+	"parent": "aeternus:block/peculiar_quartz_ore",
 	"textures": {
-		"0": "aeternus:block/strange_quartz_ore",
-		"particle": "aeternus:block/strange_quartz_ore"
+		"0": "aeternus:block/peculiar_quartz_ore",
+		"particle": "aeternus:block/peculiar_quartz_ore"
 	},
 	"elements": [
 		{

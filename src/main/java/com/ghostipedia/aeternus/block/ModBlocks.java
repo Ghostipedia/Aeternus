@@ -1,11 +1,13 @@
 package com.ghostipedia.aeternus.block;
 
 import com.ghostipedia.aeternus.Aeternus;
+import com.ghostipedia.aeternus.item.ModCreativeModeTab;
 import com.ghostipedia.aeternus.item.ModItems;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.StairBlock;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.Material;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -20,10 +22,13 @@ public class ModBlocks {
             DeferredRegister.create(ForgeRegistries.BLOCKS, Aeternus.MOD_ID);
 
 
-    public static final RegistryObject<Block> STRANGE_QUARTZ_ORE = registerBlock("strange_quartz_ore",
+    public static final RegistryObject<Block> PECULIAR_QUARTZ_ORE = registerBlock("peculiar_quartz_ore",
             () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
-                    .strength(9f).requiresCorrectToolForDrops()), CreativeModeTab.TAB_MISC);
+                    .strength(1.5f).requiresCorrectToolForDrops()), ModCreativeModeTab.AETERNUS_TAB);
 
+    public static final RegistryObject<Block> PECULIAR_QUARTZ_BLOCK = registerBlock("peculiar_quartz_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(1.5f).requiresCorrectToolForDrops()), ModCreativeModeTab.AETERNUS_TAB);
 
 
 

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_ingot",
+  "ingredient": {
+    "item": "aeternus:peculiar_quartz_ore"
+  },
+  "result": "aeternus:peculiar_quartz",
+  "experience": 0.7,
+  "cookingtime": 200
+}

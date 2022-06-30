@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aeternus:peculiar_quartz",
+  "ingredients": [
+    {
+      "item": "aeternus:peculiar_quartz_block"
+    }
+  ],
+  "result": {
+    "item": "aeternus:peculiar_quartz",
+    "count": 4
+  }
+}

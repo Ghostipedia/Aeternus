@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "aeternus:item/brass_hands"
+    "layer0": "aeternus:item/mundane_time_crystal"
 
 
   }
